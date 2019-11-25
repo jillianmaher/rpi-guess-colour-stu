@@ -1,51 +1,9 @@
 ## Get started
 
-Go to [dojo.soy/js-colours](http://dojo.soy/js-colours). You will see a box containing an example website project. On the right-hand side is a website, and on the left-hand side is the code that makes the website.
+Once you access this repository, be sure to click **Clone or Download** and then **Open in Desktop** to access the files on your local computer. 
 
-![Trinket showing code and output of code side-by-side](images/tktStart.png)
-
-You don't have to have an account on Trinket to work on this project.
-
-If you do have an account on Trinket, click the **Remix** button at the top right of the project \(If you are not signed in, you will be asked to do so. Once you are signed in, you need to click the **Remix** button again\). Doing this creates a copy of the project that you can work with. 
-
-![Remix button](images/tktRemixButtonArrow.png)
-
-The button should say **remixed** after you click it.
-  
-![Button now says "remixed"](images/tktRemixedSmall.png)
-
---- collapse ---
----
-title: How to use Trinket without an account
----
-
-Even if you don't have an account on Trinket, you can still save your work. Go to the **Share** menu and click on one of the options to get a link, which you can save somewhere in a text document file, or share with to someone via email.
-
-**Note: each time you make a change to your code, you get a new link!**
-
---- /collapse ---
-
---- collapse ---
----
-title: How to create a free Trinket account
----
-
-A Trinket account lets you:
-1. Access your work easily from any computer
-1. Save a copy of any project somebody shares with you so you can make your own changes to it
-
-+ If you do not have an account, go to [dojo.soy/trinket](http://dojo.soy/trinket) and click on **Sign Up For Your Free Account**. You will need an email address to sign up. 
-
-+ Enter your email address and choose a password, or ask somebody to do this for you.
-
-+ You can now access all your saved or remixed projects by clicking on your username and then clicking on **My Trinkets**.
-
-!["My Trinkets" menu item](images/MyTrinketsMenuWide.png)
-
---- /collapse ---
-
-The trinket contains three files:
- - `index.html`, which contains the HTML code for the web page on the right-hand side, where you will see the effect of your changes and additions. You **will not** need to change the HTML code itself.
+The resources folder contains three files:
+ - `index.html`, which contains the HTML code for the web page, where you will see the effect of your changes and additions. You **will not** need to change the HTML code itself. You will only use this file to preview and see your changes.
  - `style.css`, which contains the CSS code that controls what the web page looks like. You **will not** need to change the CSS code either.
  - `script.js`, where you will create your JavaScript code.
 
@@ -97,3 +55,5 @@ Below the line of code that stores the element in the variable `heading`, add th
 heading.innerHTML = 'Hello world!';
 ```
 --- /task ---
+
+Preview your `index.html` file in a web browser to see the effect of this code. 

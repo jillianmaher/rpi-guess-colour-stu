@@ -46,6 +46,4 @@ var blue = makeColourValue();
 setButtonColour(buttons[0], red, green, blue);
 ```
 --- /task ---
-Now reload the web page a few times and see the button change colour every time! If you are working online, reload the page by clicking on the **Autorun** button, and if you're working offline, reload the page by refreshing your browser.
-
-![The Trinket menu bar with the Autorun button highlighted](images/tktReload.png)
+Now reload the web page a few times and see the button change colour every time! Since you're working offline, reload the page by refreshing your browser.
