@@ -6,7 +6,7 @@ In this project you will create an HTML and Javascript game that tests your know
 ## Project Description
 Use the `resources` folder to access the step-by-step guides to complete the project.
 
-##Debugging Notes
+## Debugging Notes
 This project uses the spelling `colour` with a `u`. It is important that every line of code follow the same and correct spelling. 
 
 ## Credit
